@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ViewToolDHN::Renderer.copyright 'John Doe', 'All Rights Reserved'
+```
 
 ## Development
 
